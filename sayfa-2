@@ -1,0 +1,146 @@
+<table style="color: rgb(255, 255, 255); font-family: Arial, Tahoma, Helvetica, FreeSans, sans-serif; font-size: 13px; background-color: rgb(20, 20, 20);">
+    <thead>
+        <tr>
+            <td>Monster</td>
+            <td>Level</td>
+            <td>Boss</td>
+            <td>Level</td>
+            <td>Spawn rate (%)</td>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td><a href="http://www.runesdatabase.com/npc/100063/" style="text-decoration-line: none; color: rgb(127, 127, 127);">Bear</a></td>
+            <td>8</td>
+            <td><a href="http://www.runesdatabase.com/npc/101280/" style="text-decoration-line: none; color: rgb(127, 127, 127);">Beruda Lize</a></td>
+            <td>8</td>
+            <td>1.0</td>
+        </tr>
+        <tr>
+            <td><a href="http://www.runesdatabase.com/npc/100956/" style="text-decoration-line: none; color: rgb(127, 127, 127);">Spirit of Fierce Giant Wolf</a></td>
+            <td>20</td>
+            <td><a href="http://www.runesdatabase.com/npc/100821/" style="text-decoration-line: none; color: rgb(127, 127, 127);">Wild Mane</a></td>
+            <td>11</td>
+            <td>5.0</td>
+        </tr>
+        <tr>
+            <td><a href="http://www.runesdatabase.com/npc/100230/" style="text-decoration-line: none; color: rgb(127, 127, 127);">Bloodthirsty Demon Vine</a></td>
+            <td>28</td>
+            <td><a href="http://www.runesdatabase.com/npc/100676/" style="text-decoration-line: none; color: rgb(127, 127, 127);">Joblid the Giant Flower</a></td>
+            <td>25</td>
+            <td>0.5</td>
+        </tr>
+        <tr>
+            <td><a href="http://www.runesdatabase.com/npc/100276/" style="text-decoration-line: none; color: rgb(127, 127, 127);">Winternight Ice Witch</a></td>
+            <td>35</td>
+            <td><a href="http://www.runesdatabase.com/npc/101342/" style="text-decoration-line: none; color: rgb(127, 127, 127);">Aisha</a></td>
+            <td>45</td>
+            <td>0.03</td>
+        </tr>
+        <tr>
+            <td><a href="http://www.runesdatabase.com/npc/100368/" style="text-decoration-line: none; color: rgb(127, 127, 127);">Ystra Winter Spider</a></td>
+            <td>35</td>
+            <td><a href="http://www.runesdatabase.com/npc/101344/" style="text-decoration-line: none; color: rgb(127, 127, 127);">Anselve</a></td>
+            <td>45</td>
+            <td>0.01</td>
+        </tr>
+        <tr>
+            <td><a href="http://www.runesdatabase.com/npc/101382/" style="text-decoration-line: none; color: rgb(127, 127, 127);">Silanklir</a></td>
+            <td>35</td>
+            <td><a href="http://www.runesdatabase.com/npc/101342/" style="text-decoration-line: none; color: rgb(127, 127, 127);">Aisha</a></td>
+            <td>45</td>
+            <td>5.0</td>
+        </tr>
+        <tr>
+            <td><a href="http://www.runesdatabase.com/npc/100370/" style="text-decoration-line: none; color: rgb(127, 127, 127);">Stone-Clawed Dragon</a></td>
+            <td>40</td>
+            <td><a href="http://www.runesdatabase.com/npc/100625/" style="text-decoration-line: none; color: rgb(127, 127, 127);">Scion Locface</a></td>
+            <td>45</td>
+            <td>10.0</td>
+        </tr>
+        <tr>
+            <td><a href="http://www.runesdatabase.com/npc/100449/" style="text-decoration-line: none; color: rgb(127, 127, 127);">Red Winged Harpy</a></td>
+            <td>45</td>
+            <td><a href="http://www.runesdatabase.com/npc/100450/" style="text-decoration-line: none; color: rgb(127, 127, 127);">Ayelo</a></td>
+            <td>48</td>
+            <td>0.1</td>
+        </tr>
+        <tr>
+            <td><a href="http://www.runesdatabase.com/npc/100620/" style="text-decoration-line: none; color: rgb(127, 127, 127);">Giant Needle Cactus</a></td>
+            <td>45</td>
+            <td><a href="http://www.runesdatabase.com/npc/100667/" style="text-decoration-line: none; color: rgb(127, 127, 127);">Giant Fruit Cactus</a></td>
+            <td>45</td>
+            <td>75.0</td>
+        </tr>
+        <tr>
+            <td><a href="http://www.runesdatabase.com/npc/100621/" style="text-decoration-line: none; color: rgb(127, 127, 127);">Giant Flower Cactus</a></td>
+            <td>45</td>
+            <td><a href="http://www.runesdatabase.com/npc/100620/" style="text-decoration-line: none; color: rgb(127, 127, 127);">Giant Needle Cactus</a></td>
+            <td>45</td>
+            <td>50.0</td>
+        </tr>
+        <tr>
+            <td><a href="http://www.runesdatabase.com/npc/100667/" style="text-decoration-line: none; color: rgb(127, 127, 127);">Giant Fruit Cactus</a></td>
+            <td>45</td>
+            <td><a href="http://www.runesdatabase.com/npc/100620/" style="text-decoration-line: none; color: rgb(127, 127, 127);">Giant Needle Cactus</a></td>
+            <td>45</td>
+            <td>75.0</td>
+        </tr>
+        <tr>
+            <td><a href="http://www.runesdatabase.com/npc/104103/" style="text-decoration-line: none; color: rgb(127, 127, 127);">Sandstone Messenger</a></td>
+            <td>55</td>
+            <td><a href="http://www.runesdatabase.com/npc/101342/" style="text-decoration-line: none; color: rgb(127, 127, 127);">Aisha</a></td>
+            <td>45</td>
+            <td>0.03</td>
+        </tr>
+        <tr>
+            <td><a href="http://www.runesdatabase.com/npc/105014/" style="text-decoration-line: none; color: rgb(127, 127, 127);">Sandstone Messenger</a></td>
+            <td>55</td>
+            <td><a href="http://www.runesdatabase.com/npc/101342/" style="text-decoration-line: none; color: rgb(127, 127, 127);">Aisha</a></td>
+            <td>45</td>
+            <td>0.03</td>
+        </tr>
+        <tr>
+            <td><a href="http://www.runesdatabase.com/npc/103580/" style="text-decoration-line: none; color: rgb(127, 127, 127);">Hippogriff King Wodjin</a></td>
+            <td>57</td>
+            <td><a href="http://www.runesdatabase.com/npc/107183/" style="text-decoration-line: none; color: rgb(127, 127, 127);">Furious Wodjin</a></td>
+            <td>75</td>
+            <td>55.0</td>
+        </tr>
+        <tr>
+            <td><a href="http://www.runesdatabase.com/npc/103583/" style="text-decoration-line: none; color: rgb(127, 127, 127);">Blind Hackman</a></td>
+            <td>58</td>
+            <td><a href="http://www.runesdatabase.com/npc/107185/" style="text-decoration-line: none; color: rgb(127, 127, 127);">Resentful Hackman</a></td>
+            <td>75</td>
+            <td>55.0</td>
+        </tr>
+        <tr>
+            <td><a href="http://www.runesdatabase.com/npc/104705/" style="text-decoration-line: none; color: rgb(127, 127, 127);">Spider Priestess Mandara</a></td>
+            <td>63</td>
+            <td><a href="http://www.runesdatabase.com/npc/107187/" style="text-decoration-line: none; color: rgb(127, 127, 127);">Resentful Mandara</a></td>
+            <td>75</td>
+            <td>55.0</td>
+        </tr>
+        <tr>
+            <td><a href="http://www.runesdatabase.com/npc/107183/" style="text-decoration-line: none; color: rgb(127, 127, 127);">Furious Wodjin</a></td>
+            <td>75</td>
+            <td><a href="http://www.runesdatabase.com/npc/103580/" style="text-decoration-line: none; color: rgb(127, 127, 127);">Hippogriff King Wodjin</a></td>
+            <td>57</td>
+            <td>100.0</td>
+        </tr>
+        <tr>
+            <td><a href="http://www.runesdatabase.com/npc/107185/" style="text-decoration-line: none; color: rgb(127, 127, 127);">Resentful Hackman</a></td>
+            <td>75</td>
+            <td><a href="http://www.runesdatabase.com/npc/103583/" style="text-decoration-line: none; color: rgb(127, 127, 127);">Blind Hackman</a></td>
+            <td>58</td>
+            <td>100.0</td>
+        </tr>
+        <tr>
+            <td><a href="http://www.runesdatabase.com/npc/107187/" style="text-decoration-line: none; color: rgb(127, 127, 127);">Resentful Mandara</a></td>
+            <td>75</td>
+            <td><a href="http://www.runesdatabase.com/npc/104705/" style="text-decoration-line: none; color: rgb(127, 127, 127);">Spider Priestess Mandara</a></td>
+            <td>63</td>
+            <td>100.0</td>
+        </tr>
+    </tbody>
+</table>
